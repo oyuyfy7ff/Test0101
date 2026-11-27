@@ -1,0 +1,4 @@
+{ "id": "building:FARM", "name": "Farm", "icon": "F", "order": 1,
+  "cost": {"money": 300}, "build_time": 6, "hp": 120,
+  "produces": {"food": 6}, "upkeep": {"money": 1},
+  "terrain": ["plains", "forest", "desert"] }

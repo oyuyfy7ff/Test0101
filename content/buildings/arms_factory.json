@@ -1,0 +1,2 @@
+{ "id": "building:ARMS_FACTORY", "name": "Arms Factory", "icon": "A", "order": 6,
+  "cost": {"money": 1800, "metal": 40}, "build_time": 15, "hp": 260, "upkeep": {"money": 4} }

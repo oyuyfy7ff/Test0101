@@ -1,0 +1,4 @@
+{
+  "_comment": "Patches applied on top of content/*. Same shape as the original definition; nested dicts merge one level deep.",
+  "unit:TANK": { "attack": 20 }
+}

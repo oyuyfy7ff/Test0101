@@ -1,0 +1,4 @@
+{ "id": "unit:INFANTRY", "name": "Infantry", "icon": "I", "order": 1,
+  "cost": {"money": 200, "food": 10}, "build_time": 4,
+  "hp": 60, "attack": 8, "range": 1.2, "reload": 1.0, "speed": 1.0,
+  "upkeep": {"money": 0.5, "food": 0.3}, "requires": "building:BARRACKS" }

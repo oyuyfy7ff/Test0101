@@ -1,0 +1,4 @@
+{ "id": "building:OIL_WELL", "name": "Oil Well", "icon": "O", "order": 3,
+  "cost": {"money": 600, "metal": 10}, "build_time": 8, "hp": 120,
+  "produces": {"fuel": 3}, "upkeep": {"money": 2},
+  "terrain": ["plains", "desert"] }

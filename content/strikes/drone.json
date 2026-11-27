@@ -1,0 +1,3 @@
+{ "id": "strike:DRONE", "name": "Strike Drone", "icon": "d", "order": 1,
+  "cost": {"money": 120, "metal": 2}, "launcher": "building:DRONE_BASE",
+  "range": 25.0, "speed": 3.0, "damage": 45, "radius": 1.2, "reload": 4.0, "evasion": 1.0 }

@@ -1,0 +1,4 @@
+{ "id": "building:MINE", "name": "Mine", "icon": "M", "order": 2,
+  "cost": {"money": 500}, "build_time": 8, "hp": 160,
+  "produces": {"metal": 3}, "upkeep": {"money": 2},
+  "terrain": ["hills", "mountain"] }
