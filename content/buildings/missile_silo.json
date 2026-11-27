@@ -1,0 +1,2 @@
+{ "id": "building:MISSILE_SILO", "name": "Missile Silo", "icon": "S", "order": 8,
+  "cost": {"money": 4000, "metal": 120}, "build_time": 25, "hp": 300, "upkeep": {"money": 6} }

@@ -1,0 +1,4 @@
+{ "id": "unit:TANK", "name": "Tank", "icon": "T", "order": 2,
+  "cost": {"money": 1800, "metal": 40, "fuel": 10}, "build_time": 10,
+  "hp": 180, "attack": 20, "range": 1.5, "reload": 1.2, "speed": 1.5,
+  "upkeep": {"money": 2, "fuel": 0.4}, "requires": "building:ARMS_FACTORY" }

@@ -1,0 +1,2 @@
+{ "id": "building:BARRACKS", "name": "Barracks", "icon": "B", "order": 5,
+  "cost": {"money": 600}, "build_time": 8, "hp": 200, "upkeep": {"money": 2} }

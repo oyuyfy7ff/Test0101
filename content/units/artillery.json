@@ -1,0 +1,4 @@
+{ "id": "unit:ARTILLERY", "name": "Artillery", "icon": "A", "order": 3,
+  "cost": {"money": 1200, "metal": 30}, "build_time": 8,
+  "hp": 60, "attack": 26, "range": 4.5, "reload": 3.0, "speed": 0.7,
+  "upkeep": {"money": 1.5}, "requires": "building:ARMS_FACTORY" }

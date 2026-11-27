@@ -1,0 +1,3 @@
+{ "id": "building:CIV_FACTORY", "name": "Civilian Factory", "icon": "C", "order": 4,
+  "cost": {"money": 1500, "metal": 20}, "build_time": 15, "hp": 250,
+  "produces": {"money": 30}, "upkeep": {"food": 1} }

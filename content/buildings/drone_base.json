@@ -1,0 +1,2 @@
+{ "id": "building:DRONE_BASE", "name": "Drone Base", "icon": "D", "order": 7,
+  "cost": {"money": 1500, "metal": 30}, "build_time": 12, "hp": 180, "upkeep": {"money": 3} }

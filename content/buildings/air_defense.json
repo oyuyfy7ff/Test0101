@@ -1,0 +1,3 @@
+{ "id": "building:AIR_DEFENSE", "name": "Air Defense", "icon": "R", "order": 9,
+  "cost": {"money": 1000, "metal": 25}, "build_time": 10, "hp": 150, "upkeep": {"money": 2},
+  "ad": {"range": 6.0, "chance": 0.6, "reload": 1.2} }
